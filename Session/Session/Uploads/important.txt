@@ -1,0 +1,96 @@
+https://codingbytodesign.net/2017/11/03/hackerrank-customer-service-capacity/
+
+
+https://gist.github.com/tonholis/09b960c10f4c79d55dbe3ff213402fce
+https://medium.com/basecs/tagged/algorithms
+https://www.interviewbit.com/dashboard/
+
+alexanderhlebrain@gmail.com
+P@ssw0rd1234
+
+adaminaali@gmail.com
+P@ssw0rd1234
+4716230784315665
+iOS App Development: UI with Visual Tools
+https://github.com/rshaghoulian/HackerRank_solutions/tree/master/Cracking%20the%20Coding%20Interview
+https://thesemicolonn.blogspot.com.eg/2017/12/lynda-free-primum-accounts.html
+houstonlibrary.org
+cardNumber :2214222
+password :P@ssw0rd
+ping:1234
+
+
+
+http://mlapshin.com/index.php/scrum-quizzes/psm-learning-mode/
+
+
+1
+
+
+  if(a==b && b==c && a>0 && b>0 && c>0)
+            return 1;
+        else if ( a+b>c && b+c>a && c+a>b)
+            return 2;
+        else return 0;
+		
+		
+		
+		2
+		
+		
+		 var result = new List<int>();
+       
+        result.Add(array[0]);
+        for(int i=1;i<array.Length;i++)
+        {
+            var diff= array[i]-array[i-1];
+            if(!(diff<=127 && diff>=-127))
+                 result.Add(-128);
+             result.Add(diff);
+        }
+        return result.ToArray();
+		
+		
+3
+var set = new SortedList<int, int>();
+            for (int i = 0; i < callsTimes.Length; ++i)
+            {
+                var b = callsTimes[i][0];
+                var e = callsTimes[i][1];
+ 
+                if (!set.ContainsKey(b)) set.Add(b, +1); else set[b]++;
+                if (!set.ContainsKey(e)) set.Add(e, -1); else set[e]--;
+            }
+            var max = 0;
+            var num = 0;
+            foreach (var val in set.Values)
+            {
+                num += val;
+                if (max < num) max = num;
+            }
+            return (max - noOfCurrentAgents)>0 ? max - noOfCurrentAgents : 0;
+			
+			
+
+4
+  var keywordsList = keywords.ToLower().Replace('.',' ').Replace(',',' ').Split(' ').Select(a=>a.Trim());
+        Dictionary<int,int> result = new  Dictionary<int,int>();
+        for(int i=0;i<hotel_ids.Length;i++)
+        {
+            var curHotel_id = hotel_ids[i];
+            var curreview = reviews[i].ToLower().Replace('.',' ').Replace(',',' ').Split(' ').Select(a=>a.Trim());
+           
+            var com =curreview.Intersect(keywordsList); 
+             //Console.WriteLine("for id="+curHotel_id.ToString()+" :"+com.Count().ToString());
+           
+            if(!result.ContainsKey(curHotel_id))
+                result.Add(curHotel_id,com.Count());
+            else
+                result[curHotel_id]+=com.Count();
+        }
+        foreach (KeyValuePair<int, int> author in result)
+        {
+         Console.WriteLine("Key: {0}, Value: {1}", author.Key, author.Value);
+        }
+       
+        return result.OrderByDescending(x => x.Value).ThenBy(x => x.Key).Select(a=>a.Key).ToArray();

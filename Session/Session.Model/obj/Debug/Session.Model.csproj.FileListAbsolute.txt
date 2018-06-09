@@ -1,0 +1,10 @@
+E:\Projects\ProgrammerTest\Session\Session.Model\bin\Debug\Session.Model.dll.config
+E:\Projects\ProgrammerTest\Session\Session.Model\bin\Debug\Session.Model.dll
+E:\Projects\ProgrammerTest\Session\Session.Model\bin\Debug\Session.Model.pdb
+E:\Projects\ProgrammerTest\Session\Session.Model\bin\Debug\EntityFramework.dll
+E:\Projects\ProgrammerTest\Session\Session.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\ProgrammerTest\Session\Session.Model\bin\Debug\EntityFramework.xml
+E:\Projects\ProgrammerTest\Session\Session.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\ProgrammerTest\Session\Session.Model\obj\Debug\Session.Model.csprojResolveAssemblyReference.cache
+E:\Projects\ProgrammerTest\Session\Session.Model\obj\Debug\Session.Model.dll
+E:\Projects\ProgrammerTest\Session\Session.Model\obj\Debug\Session.Model.pdb

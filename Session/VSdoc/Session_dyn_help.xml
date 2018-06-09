@@ -1,0 +1,2745 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DynamicHelp xmlns="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:schemaLocation="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd">	
+   <LINKGROUP ID="Session" Title="SOLUTION-WIDE PROPERTIES Reference Help" Priority="2100">
+      <GLYPH Expanded="vs:/ctxhelp_show.gif" Collapsed="vs:/ctxhelp_hide.gif"/>
+   </LINKGROUP>
+
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.HomeController.About" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000000E.html" LinkGroup="Session">About Method {Session.Controllers.HomeController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Tests.Controllers.HomeControllerTest.About" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000006B.html" LinkGroup="Session">About Method {Session.Tests.Controllers.HomeControllerTest}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.GenericRepository<T>.Add" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000A9.html" LinkGroup="Session">Add Method {Session.Repository.GenericRepository<T>}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.IGenericRepository<T>.Add" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000B1.html" LinkGroup="Session">Add Method {Session.Repository.IGenericRepository<T>}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.PredicateBuilder.And<T>" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000C8.html" LinkGroup="Session">And<T> Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.AttendeeFilterViewModel.AndingSession" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000047.html" LinkGroup="Session">AndingSession Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.AttendeeFilterViewModel.AndingTime" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000048.html" LinkGroup="Session">AndingTime Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.MvcApplication.Application_Start" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000036.html" LinkGroup="Session">Application_Start Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.AttendeeController" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000008.html" LinkGroup="Session">AttendeeController Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.AttendeeController.AttendeeController" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000009.html" LinkGroup="Session">AttendeeController Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.AttendeeFilterViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000045.html" LinkGroup="Session">AttendeeFilterViewModel Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.AttendeeFullData" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000006E.html" LinkGroup="Session">AttendeeFullData Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.SessionAttendee.AttendeeFullData" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000090.html" LinkGroup="Session">AttendeeFullData Property {Session.Model.SessionAttendee}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.SessionContext.AttendeeFullData" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000087.html" LinkGroup="Session">AttendeeFullData Property {Session.Model.SessionContext}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.AttendeeFullDataRepository" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000009F.html" LinkGroup="Session">AttendeeFullDataRepository Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.AttendeeFullDataRepository.AttendeeFullDataRepository" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000A0.html" LinkGroup="Session">AttendeeFullDataRepository Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.AttendeeFullDataService" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000E2.html" LinkGroup="Session">AttendeeFullDataService Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.AttendeeFullDataService.AttendeeFullDataService" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000E3.html" LinkGroup="Session">AttendeeFullDataService Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.SessionAttendee.AttendeeID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000008D.html" LinkGroup="Session">AttendeeID Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.AttendeeFilterViewModel.AttendeeSessionFilter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000046.html" LinkGroup="Session">AttendeeSessionFilter Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.AuditableEntity<T>" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000073.html" LinkGroup="Session">AuditableEntity<T> Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Models.AutomapperProfile" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000038.html" LinkGroup="Session">AutomapperProfile Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Models.AutomapperProfile.AutomapperProfile" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000039.html" LinkGroup="Session">AutomapperProfile Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.BaseEntity" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000078.html" LinkGroup="Session">BaseEntity Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.BundleConfig" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000001.html" LinkGroup="Session">BundleConfig Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.IUnitOfWork.Commit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000B7.html" LinkGroup="Session">Commit Method {Session.Repository.IUnitOfWork}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.UnitOfWork.Commit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000DF.html" LinkGroup="Session">Commit Method {Session.Repository.UnitOfWork}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.HomeController.Contact" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000000F.html" LinkGroup="Session">Contact Method {Session.Controllers.HomeController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Tests.Controllers.HomeControllerTest.Contact" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000006C.html" LinkGroup="Session">Contact Method {Session.Tests.Controllers.HomeControllerTest}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.SessionAttendeeService.ContainsSessionAndTime" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000105.html" LinkGroup="Session">ContainsSessionAndTime Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.SessionClassController.Create" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000014_overloads--.html" LinkGroup="Session">Create Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.SessionRoomController.Create" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000001F_overloads--.html" LinkGroup="Session">Create Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.SessionTopicController.Create" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000002A_overloads--.html" LinkGroup="Session">Create Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.SessionClassController.Create" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000015_overloads--.html" LinkGroup="Session">Create Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.SessionRoomController.Create" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000020_overloads--.html" LinkGroup="Session">Create Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.SessionTopicController.Create" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000002B_overloads--.html" LinkGroup="Session">Create Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.EntityService<T>.Create" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000E7.html" LinkGroup="Session">Create Method {Session.Service.EntityService<T>}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.IEntityService<T>.Create" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000EE.html" LinkGroup="Session">Create Method {Session.Service.IEntityService<T>}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.PredicateBuilder.Create<T>" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000C7.html" LinkGroup="Session">Create<T> Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.AuditableEntity<T>.CreatedBy" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000075.html" LinkGroup="Session">CreatedBy Property {Session.Model.AuditableEntity<T>}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.IAuditableEntity.CreatedBy" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000007D.html" LinkGroup="Session">CreatedBy Property {Session.Model.IAuditableEntity}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.AuditableEntity<T>.CreatedDate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000074.html" LinkGroup="Session">CreatedDate Property {Session.Model.AuditableEntity<T>}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.IAuditableEntity.CreatedDate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000007C.html" LinkGroup="Session">CreatedDate Property {Session.Model.IAuditableEntity}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Strings.Culture" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000043.html" LinkGroup="Session">Culture Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.SessionAttendeeViewModel.DataHeader" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000056.html" LinkGroup="Session">DataHeader Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.SessionAttendeeViewModel.DataValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000057.html" LinkGroup="Session">DataValue Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.TimeSlot.Date" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000052.html" LinkGroup="Session">Date Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.SessionClassController.Delete" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000018.html" LinkGroup="Session">Delete Method {Session.Controllers.SessionClassController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.SessionRoomController.Delete" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000023.html" LinkGroup="Session">Delete Method {Session.Controllers.SessionRoomController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.SessionTopicController.Delete" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000002E.html" LinkGroup="Session">Delete Method {Session.Controllers.SessionTopicController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.GenericRepository<T>.Delete" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000AA.html" LinkGroup="Session">Delete Method {Session.Repository.GenericRepository<T>}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.IGenericRepository<T>.Delete" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000B2.html" LinkGroup="Session">Delete Method {Session.Repository.IGenericRepository<T>}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.EntityService<T>.Delete" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000E9.html" LinkGroup="Session">Delete Method {Session.Service.EntityService<T>}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.IEntityService<T>.Delete" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000EF.html" LinkGroup="Session">Delete Method {Session.Service.IEntityService<T>}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.SessionClassController.DeleteConfirmed" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000019.html" LinkGroup="Session">DeleteConfirmed Method {Session.Controllers.SessionClassController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.SessionRoomController.DeleteConfirmed" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000024.html" LinkGroup="Session">DeleteConfirmed Method {Session.Controllers.SessionRoomController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.SessionTopicController.DeleteConfirmed" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000002F.html" LinkGroup="Session">DeleteConfirmed Method {Session.Controllers.SessionTopicController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.SessionClassController.Details" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000013.html" LinkGroup="Session">Details Method {Session.Controllers.SessionClassController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.SessionRoomController.Details" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000001E.html" LinkGroup="Session">Details Method {Session.Controllers.SessionRoomController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.SessionTopicController.Details" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000029.html" LinkGroup="Session">Details Method {Session.Controllers.SessionTopicController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.SessionClassController.Dispose" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000001A.html" LinkGroup="Session">Dispose Method {Session.Controllers.SessionClassController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.SessionRoomController.Dispose" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000025.html" LinkGroup="Session">Dispose Method {Session.Controllers.SessionRoomController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.SessionTopicController.Dispose" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000030.html" LinkGroup="Session">Dispose Method {Session.Controllers.SessionTopicController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.UnitOfWork.Dispose" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000E0.html" LinkGroup="Session">Dispose Method {Session.Repository.UnitOfWork}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Modules.EFModule" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000003B.html" LinkGroup="Session">EFModule Class</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.SessionClassController.Edit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000016_overloads--.html" LinkGroup="Session">Edit Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.SessionRoomController.Edit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000021_overloads--.html" LinkGroup="Session">Edit Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.SessionTopicController.Edit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000002C_overloads--.html" LinkGroup="Session">Edit Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.SessionClassController.Edit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000017_overloads--.html" LinkGroup="Session">Edit Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.SessionRoomController.Edit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000022_overloads--.html" LinkGroup="Session">Edit Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.SessionTopicController.Edit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000002D_overloads--.html" LinkGroup="Session">Edit Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.GenericRepository<T>.Edit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000AB.html" LinkGroup="Session">Edit Method {Session.Repository.GenericRepository<T>}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.IGenericRepository<T>.Edit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000B3.html" LinkGroup="Session">Edit Method {Session.Repository.IGenericRepository<T>}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.SessionClass.EndDate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000093.html" LinkGroup="Session">EndDate Property {Session.Model.SessionClass}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.SessionClassViewModel.EndDate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000005B.html" LinkGroup="Session">EndDate Property {Session.ViewModels.SessionClassViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.Entity<T>" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000079.html" LinkGroup="Session">Entity<T> Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.EntityService<T>" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000E5.html" LinkGroup="Session">EntityService<T> Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.EntityService<T>.EntityService" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000E6.html" LinkGroup="Session">EntityService<T> Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.PredicateBuilder.False<T>" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000C6.html" LinkGroup="Session">False<T> Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.UploadAttendeeViewModel.File" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000067.html" LinkGroup="Session">File Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.FilterConfig" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000003.html" LinkGroup="Session">FilterConfig Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.GenericRepository<T>.FindBy" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000A8.html" LinkGroup="Session">FindBy Method {Session.Repository.GenericRepository<T>}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.IGenericRepository<T>.FindBy" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000B0.html" LinkGroup="Session">FindBy Method {Session.Repository.IGenericRepository<T>}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.TimeSlot.From" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000053.html" LinkGroup="Session">From Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.GenericRepository<T>" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000A3.html" LinkGroup="Session">GenericRepository<T> Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.GenericRepository<T>.GenericRepository" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000A6.html" LinkGroup="Session">GenericRepository<T> Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.AttendeeFullDataRepository.GetAll" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000A1.html" LinkGroup="Session">GetAll Method {Session.Repository.AttendeeFullDataRepository}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.GenericRepository<T>.GetAll" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000A7.html" LinkGroup="Session">GetAll Method {Session.Repository.GenericRepository<T>}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.IGenericRepository<T>.GetAll" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000AF.html" LinkGroup="Session">GetAll Method {Session.Repository.IGenericRepository<T>}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.SessionAttendeeRepository.GetAll" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000CD.html" LinkGroup="Session">GetAll Method {Session.Repository.SessionAttendeeRepository}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.SessionClassRepository.GetAll" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000D3.html" LinkGroup="Session">GetAll Method {Session.Repository.SessionClassRepository}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.SessionRoomRepository.GetAll" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000D7.html" LinkGroup="Session">GetAll Method {Session.Repository.SessionRoomRepository}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.SessionTopicRepository.GetAll" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000DB.html" LinkGroup="Session">GetAll Method {Session.Repository.SessionTopicRepository}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.EntityService<T>.GetAll" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000EA.html" LinkGroup="Session">GetAll Method {Session.Service.EntityService<T>}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.IEntityService<T>.GetAll" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000F0.html" LinkGroup="Session">GetAll Method {Session.Service.IEntityService<T>}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.SessionAttendeeService.GetAllFilterByTimes" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000109.html" LinkGroup="Session">GetAllFilterByTimes Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.ISessionAttendeeService.GetAllFilterByTopic" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000F8.html" LinkGroup="Session">GetAllFilterByTopic Method {Session.Service.ISessionAttendeeService}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.SessionAttendeeService.GetAllFilterByTopic" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000106.html" LinkGroup="Session">GetAllFilterByTopic Method {Session.Service.SessionAttendeeService}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.SessionAttendeeService.GetAllFilterByTopicv2" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000107.html" LinkGroup="Session">GetAllFilterByTopicv2 Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.SessionAttendeeService.GetAllFilterByTopicver1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000108.html" LinkGroup="Session">GetAllFilterByTopicver1 Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.ISessionAttendeeRepository.GetAllToPivotTable" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000BC_overloads--.html" LinkGroup="Session">GetAllToPivotTable Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.SessionAttendeeRepository.GetAllToPivotTable" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000CE_overloads--.html" LinkGroup="Session">GetAllToPivotTable Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.ISessionAttendeeService.GetAllToPivotTable" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000F7_overloads--.html" LinkGroup="Session">GetAllToPivotTable Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.SessionAttendeeService.GetAllToPivotTable" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000103_overloads--.html" LinkGroup="Session">GetAllToPivotTable Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.ISessionAttendeeRepository.GetAllToPivotTable" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000BD_overloads--.html" LinkGroup="Session">GetAllToPivotTable Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.SessionAttendeeRepository.GetAllToPivotTable" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000CF_overloads--.html" LinkGroup="Session">GetAllToPivotTable Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.ISessionAttendeeService.GetAllToPivotTable" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000F6_overloads--.html" LinkGroup="Session">GetAllToPivotTable Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.SessionAttendeeService.GetAllToPivotTable" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000104_overloads--.html" LinkGroup="Session">GetAllToPivotTable Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.AttendeeFullDataRepository.GetById" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000A2.html" LinkGroup="Session">GetById Method {Session.Repository.AttendeeFullDataRepository}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.IAttendeeFullDataRepository.GetById" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000B9.html" LinkGroup="Session">GetById Method {Session.Repository.IAttendeeFullDataRepository}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.ISessionAttendeeRepository.GetById" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000BB.html" LinkGroup="Session">GetById Method {Session.Repository.ISessionAttendeeRepository}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.ISessionClassRepository.GetById" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000BF.html" LinkGroup="Session">GetById Method {Session.Repository.ISessionClassRepository}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.ISessionRoomRepository.GetById" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000C1.html" LinkGroup="Session">GetById Method {Session.Repository.ISessionRoomRepository}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.ISessionTopicRepository.GetById" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000C3.html" LinkGroup="Session">GetById Method {Session.Repository.ISessionTopicRepository}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.SessionAttendeeRepository.GetById" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000D0.html" LinkGroup="Session">GetById Method {Session.Repository.SessionAttendeeRepository}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.SessionClassRepository.GetById" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000D4.html" LinkGroup="Session">GetById Method {Session.Repository.SessionClassRepository}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.SessionRoomRepository.GetById" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000D8.html" LinkGroup="Session">GetById Method {Session.Repository.SessionRoomRepository}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.SessionTopicRepository.GetById" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000DC.html" LinkGroup="Session">GetById Method {Session.Repository.SessionTopicRepository}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.AttendeeFullDataService.GetById" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000E4.html" LinkGroup="Session">GetById Method {Session.Service.AttendeeFullDataService}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.IAttendeeFullDataService.GetById" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000EC.html" LinkGroup="Session">GetById Method {Session.Service.IAttendeeFullDataService}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.ISessionAttendeeService.GetById" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000F4.html" LinkGroup="Session">GetById Method {Session.Service.ISessionAttendeeService}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.ISessionClassService.GetById" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000FA.html" LinkGroup="Session">GetById Method {Session.Service.ISessionClassService}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.ISessionRoomService.GetById" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000FC.html" LinkGroup="Session">GetById Method {Session.Service.ISessionRoomService}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.ISessionTopicService.GetById" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000FE.html" LinkGroup="Session">GetById Method {Session.Service.ISessionTopicService}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.SessionAttendeeService.GetById" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000101.html" LinkGroup="Session">GetById Method {Session.Service.SessionAttendeeService}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.SessionClassService.GetById" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000010C.html" LinkGroup="Session">GetById Method {Session.Service.SessionClassService}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.SessionRoomService.GetById" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000010F.html" LinkGroup="Session">GetById Method {Session.Service.SessionRoomService}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.SessionTopicService.GetById" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000112.html" LinkGroup="Session">GetById Method {Session.Service.SessionTopicService}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.HomeController" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000000C.html" LinkGroup="Session">HomeController Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Tests.Controllers.HomeControllerTest" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000069.html" LinkGroup="Session">HomeControllerTest Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.IAttendeeFullDataRepository" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000B8.html" LinkGroup="Session">IAttendeeFullDataRepository Interface</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.IAttendeeFullDataService" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000EB.html" LinkGroup="Session">IAttendeeFullDataService Interface</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.IAuditableEntity" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000007B.html" LinkGroup="Session">IAuditableEntity Interface</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.IEntity<T>" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000080.html" LinkGroup="Session">IEntity<T> Interface</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.IEntityService<T>" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000ED.html" LinkGroup="Session">IEntityService<T> Interface</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.IGenericRepository<T>" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000AE.html" LinkGroup="Session">IGenericRepository<T> Interface</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.IService" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000F2.html" LinkGroup="Session">IService Interface</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.ISessionAttendeeRepository" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000BA.html" LinkGroup="Session">ISessionAttendeeRepository Interface</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.ISessionAttendeeService" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000F3.html" LinkGroup="Session">ISessionAttendeeService Interface</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.ISessionClassRepository" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000BE.html" LinkGroup="Session">ISessionClassRepository Interface</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.ISessionClassService" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000F9.html" LinkGroup="Session">ISessionClassService Interface</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.ISessionRoomRepository" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000C0.html" LinkGroup="Session">ISessionRoomRepository Interface</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.ISessionRoomService" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000FB.html" LinkGroup="Session">ISessionRoomService Interface</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.ISessionTopicRepository" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000C2.html" LinkGroup="Session">ISessionTopicRepository Interface</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.ISessionTopicService" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000FD.html" LinkGroup="Session">ISessionTopicService Interface</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.IUnitOfWork" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000B6.html" LinkGroup="Session">IUnitOfWork Interface</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.Entity<T>.Id" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000007A.html" LinkGroup="Session">Id Property {Session.Model.Entity<T>}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.IEntity<T>.Id" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000081.html" LinkGroup="Session">Id Property {Session.Model.IEntity<T>}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.SessionClassViewModel.Id" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000059.html" LinkGroup="Session">Id Property {Session.ViewModels.SessionClassViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.SessionRoomViewModel.Id" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000061.html" LinkGroup="Session">Id Property {Session.ViewModels.SessionRoomViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.SessionTopicViewModel.Id" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000064.html" LinkGroup="Session">Id Property {Session.ViewModels.SessionTopicViewModel}</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.AttendeeController.Index" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000000A_overloads--.html" LinkGroup="Session">Index Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.UploadAttendeeController.Index" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000033_overloads--.html" LinkGroup="Session">Index Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.AttendeeController.Index" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000000B_overloads--.html" LinkGroup="Session">Index Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.UploadAttendeeController.Index" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000034_overloads--.html" LinkGroup="Session">Index Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.HomeController.Index" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000000D.html" LinkGroup="Session">Index Method {Session.Controllers.HomeController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.SessionClassController.Index" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000012.html" LinkGroup="Session">Index Method {Session.Controllers.SessionClassController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.SessionRoomController.Index" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000001D.html" LinkGroup="Session">Index Method {Session.Controllers.SessionRoomController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.SessionTopicController.Index" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000028.html" LinkGroup="Session">Index Method {Session.Controllers.SessionTopicController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Tests.Controllers.HomeControllerTest.Index" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000006A.html" LinkGroup="Session">Index Method {Session.Tests.Controllers.HomeControllerTest}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.SessionFilterViewModel.IsSelected" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000004B.html" LinkGroup="Session">IsSelected Property {Session.ViewModels.SessionFilterViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.TimeSlot.IsSelected" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000051.html" LinkGroup="Session">IsSelected Property {Session.ViewModels.TimeSlot}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.AttendeeFullData.Key" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000071.html" LinkGroup="Session">Key Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Modules.EFModule.Load" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000003C.html" LinkGroup="Session">Load Method {Session.Modules.EFModule}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Modules.RepositoryModule.Load" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000003E.html" LinkGroup="Session">Load Method {Session.Modules.RepositoryModule}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Modules.ServiceModule.Load" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000040.html" LinkGroup="Session">Load Method {Session.Modules.ServiceModule}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.MvcApplication" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000035.html" LinkGroup="Session">MvcApplication Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.SessionRoom.Name" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000099.html" LinkGroup="Session">Name Property {Session.Model.SessionRoom}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.SessionTopic.Name" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000009C.html" LinkGroup="Session">Name Property {Session.Model.SessionTopic}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.SessionRoomViewModel.Name" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000062.html" LinkGroup="Session">Name Property {Session.ViewModels.SessionRoomViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.SessionTopicViewModel.Name" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000065.html" LinkGroup="Session">Name Property {Session.ViewModels.SessionTopicViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.PredicateBuilder.Not<T>" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000CA.html" LinkGroup="Session">Not<T> Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.PredicateBuilder.Or<T>" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000C9.html" LinkGroup="Session">Or<T> Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.PivotTableHelper" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000008A.html" LinkGroup="Session">PivotTableHelper Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.PredicateBuilder" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000C4.html" LinkGroup="Session">PredicateBuilder Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.BundleConfig.RegisterBundles" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000002.html" LinkGroup="Session">RegisterBundles Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.FilterConfig.RegisterGlobalFilters" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000004.html" LinkGroup="Session">RegisterGlobalFilters Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.RouteConfig.RegisterRoutes" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000006.html" LinkGroup="Session">RegisterRoutes Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.GenericRepository<T>.RemoveAll" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000AD.html" LinkGroup="Session">RemoveAll Method {Session.Repository.GenericRepository<T>}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.IGenericRepository<T>.RemoveAll" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000B4.html" LinkGroup="Session">RemoveAll Method {Session.Repository.IGenericRepository<T>}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Modules.RepositoryModule" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000003D.html" LinkGroup="Session">RepositoryModule Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Strings.ResourceManager" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000042.html" LinkGroup="Session">ResourceManager Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.SessionClassViewModel.RoomName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000005E.html" LinkGroup="Session">RoomName Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.RouteConfig" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000005.html" LinkGroup="Session">RouteConfig Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SOLUTION-WIDE PROPERTIES Reference" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000113.html" LinkGroup="Session">SOLUTION-WIDE PROPERTIES Reference</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.GenericRepository<T>.Save" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000AC.html" LinkGroup="Session">Save Method {Session.Repository.GenericRepository<T>}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.IGenericRepository<T>.Save" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000B5.html" LinkGroup="Session">Save Method {Session.Repository.IGenericRepository<T>}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.SessionContext.SaveChanges" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000089.html" LinkGroup="Session">SaveChanges Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Modules.ServiceModule" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000003F.html" LinkGroup="Session">ServiceModule Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000000.html" LinkGroup="Session">Session Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000007.html" LinkGroup="Session">Session.Controllers Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000006D.html" LinkGroup="Session">Session.Model Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Models" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000037.html" LinkGroup="Session">Session.Models Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Modules" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000003A.html" LinkGroup="Session">Session.Modules Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000009E.html" LinkGroup="Session">Session.Repository Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000E1.html" LinkGroup="Session">Session.Service Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Tests.Controllers" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000068.html" LinkGroup="Session">Session.Tests.Controllers Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000044.html" LinkGroup="Session">Session.ViewModels Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.SessionAttendee" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000008C.html" LinkGroup="Session">SessionAttendee Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.AttendeeFullData.SessionAttendee" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000070.html" LinkGroup="Session">SessionAttendee Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.AttendeeFullData.SessionAttendeeID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000006F.html" LinkGroup="Session">SessionAttendeeID Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.SessionAttendeeRepository" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000CB.html" LinkGroup="Session">SessionAttendeeRepository Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.SessionAttendeeRepository.SessionAttendeeRepository" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000CC.html" LinkGroup="Session">SessionAttendeeRepository Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.AttendeeFilterViewModel.SessionAttendeeResultViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000049.html" LinkGroup="Session">SessionAttendeeResultViewModel Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.SessionAttendeeService" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000FF.html" LinkGroup="Session">SessionAttendeeService Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.SessionAttendeeService.SessionAttendeeService" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000100.html" LinkGroup="Session">SessionAttendeeService Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.SessionAttendeeViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000055.html" LinkGroup="Session">SessionAttendeeViewModel Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.SessionContext.SessionAttendees" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000086.html" LinkGroup="Session">SessionAttendees Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.SessionClass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000091.html" LinkGroup="Session">SessionClass Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.SessionAttendee.SessionClass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000008F.html" LinkGroup="Session">SessionClass Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.SessionClassController" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000010.html" LinkGroup="Session">SessionClassController Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.SessionClassController.SessionClassController" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000011.html" LinkGroup="Session">SessionClassController Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.TimeSlot.SessionClassID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000050.html" LinkGroup="Session">SessionClassID Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.SessionClassRepository" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000D1.html" LinkGroup="Session">SessionClassRepository Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.SessionClassRepository.SessionClassRepository" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000D2.html" LinkGroup="Session">SessionClassRepository Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.SessionClassService" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000010A.html" LinkGroup="Session">SessionClassService Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.SessionClassService.SessionClassService" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000010B.html" LinkGroup="Session">SessionClassService Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.SessionClassViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000058.html" LinkGroup="Session">SessionClassViewModel Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.SessionContext.SessionClasses" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000083.html" LinkGroup="Session">SessionClasses Property {Session.Model.SessionContext}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.SessionRoom.SessionClasses" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000009A.html" LinkGroup="Session">SessionClasses Property {Session.Model.SessionRoom}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.SessionTopic.SessionClasses" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000009D.html" LinkGroup="Session">SessionClasses Property {Session.Model.SessionTopic}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.SessionContext" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000082.html" LinkGroup="Session">SessionContext Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.SessionContext.SessionContext" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000088.html" LinkGroup="Session">SessionContext Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.SessionFilterViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000004A.html" LinkGroup="Session">SessionFilterViewModel Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.SessionRoom" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000098.html" LinkGroup="Session">SessionRoom Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.SessionClass.SessionRoom" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000097.html" LinkGroup="Session">SessionRoom Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.SessionRoomController" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000001B.html" LinkGroup="Session">SessionRoomController Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.SessionRoomController.SessionRoomController" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000001C.html" LinkGroup="Session">SessionRoomController Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.SessionClass.SessionRoomID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000095.html" LinkGroup="Session">SessionRoomID Property {Session.Model.SessionClass}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.SessionClassViewModel.SessionRoomID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000005D.html" LinkGroup="Session">SessionRoomID Property {Session.ViewModels.SessionClassViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.SessionRoomRepository" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000D5.html" LinkGroup="Session">SessionRoomRepository Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.SessionRoomRepository.SessionRoomRepository" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000D6.html" LinkGroup="Session">SessionRoomRepository Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.SessionRoomService" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000010D.html" LinkGroup="Session">SessionRoomService Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.SessionRoomService.SessionRoomService" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000010E.html" LinkGroup="Session">SessionRoomService Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.SessionRoomViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000060.html" LinkGroup="Session">SessionRoomViewModel Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.SessionContext.SessionRooms" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000084.html" LinkGroup="Session">SessionRooms Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.SessionAttendee.SessionTimeID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000008E.html" LinkGroup="Session">SessionTimeID Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.SessionTopic" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000009B.html" LinkGroup="Session">SessionTopic Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.SessionClass.SessionTopic" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000096.html" LinkGroup="Session">SessionTopic Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.SessionTopicController" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000026.html" LinkGroup="Session">SessionTopicController Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.SessionTopicController.SessionTopicController" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000027.html" LinkGroup="Session">SessionTopicController Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.SessionClass.SessionTopicID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000094.html" LinkGroup="Session">SessionTopicID Property {Session.Model.SessionClass}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.SessionClassViewModel.SessionTopicID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000005C.html" LinkGroup="Session">SessionTopicID Property {Session.ViewModels.SessionClassViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.SessionFilterViewModel.SessionTopicID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000004D.html" LinkGroup="Session">SessionTopicID Property {Session.ViewModels.SessionFilterViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.SessionFilterViewModel.SessionTopicName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000004C.html" LinkGroup="Session">SessionTopicName Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.SessionTopicRepository" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000D9.html" LinkGroup="Session">SessionTopicRepository Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.SessionTopicRepository.SessionTopicRepository" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000DA.html" LinkGroup="Session">SessionTopicRepository Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.SessionTopicService" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000110.html" LinkGroup="Session">SessionTopicService Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.SessionTopicService.SessionTopicService" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000111.html" LinkGroup="Session">SessionTopicService Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.SessionTopicViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000063.html" LinkGroup="Session">SessionTopicViewModel Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.SessionContext.SessionTopics" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000085.html" LinkGroup="Session">SessionTopics Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.SessionClass.StartDate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000092.html" LinkGroup="Session">StartDate Property {Session.Model.SessionClass}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.SessionClassViewModel.StartDate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000005A.html" LinkGroup="Session">StartDate Property {Session.ViewModels.SessionClassViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Strings" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000041.html" LinkGroup="Session">Strings Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.TimeSlot" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000004F.html" LinkGroup="Session">TimeSlot Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.SessionFilterViewModel.TimeSlots" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000004E.html" LinkGroup="Session">TimeSlots Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.TimeSlot.To" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000054.html" LinkGroup="Session">To Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.PivotTableHelper.ToPivotTable<T, TColumn, TRow, TData>" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000008B.html" LinkGroup="Session">ToPivotTable<T, TColumn, TRow, TData> Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.SessionClassViewModel.TopicName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000005F.html" LinkGroup="Session">TopicName Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.PredicateBuilder.True<T>" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000C5.html" LinkGroup="Session">True<T> Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.UnitOfWork" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000DD.html" LinkGroup="Session">UnitOfWork Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.UnitOfWork.UnitOfWork" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000DE.html" LinkGroup="Session">UnitOfWork Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.EntityService<T>.Update" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000E8.html" LinkGroup="Session">Update Method {Session.Service.EntityService<T>}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.IEntityService<T>.Update" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000F1.html" LinkGroup="Session">Update Method {Session.Service.IEntityService<T>}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.AuditableEntity<T>.UpdatedBy" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000077.html" LinkGroup="Session">UpdatedBy Property {Session.Model.AuditableEntity<T>}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.IAuditableEntity.UpdatedBy" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000007F.html" LinkGroup="Session">UpdatedBy Property {Session.Model.IAuditableEntity}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.AuditableEntity<T>.UpdatedDate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000076.html" LinkGroup="Session">UpdatedDate Property {Session.Model.AuditableEntity<T>}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.IAuditableEntity.UpdatedDate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_000000000000007E.html" LinkGroup="Session">UpdatedDate Property {Session.Model.IAuditableEntity}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.ISessionAttendeeService.UploadAttendee" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000F5.html" LinkGroup="Session">UploadAttendee Method {Session.Service.ISessionAttendeeService}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Service.SessionAttendeeService.UploadAttendee" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000102.html" LinkGroup="Session">UploadAttendee Method {Session.Service.SessionAttendeeService}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.UploadAttendeeController" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000031.html" LinkGroup="Session">UploadAttendeeController Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Controllers.UploadAttendeeController.UploadAttendeeController" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000032.html" LinkGroup="Session">UploadAttendeeController Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.ViewModels.UploadAttendeeViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000066.html" LinkGroup="Session">UploadAttendeeViewModel Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Model.AttendeeFullData.Value" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_0000000000000072.html" LinkGroup="Session">Value Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.GenericRepository<T>._dbset" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000A5.html" LinkGroup="Session">_dbset Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Session.Repository.GenericRepository<T>._entities" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Session.chm::/topic_00000000000000A4.html" LinkGroup="Session">_entities Field</LItem>
+      </Links>
+   </Context>
+   
+
+</DynamicHelp>
+

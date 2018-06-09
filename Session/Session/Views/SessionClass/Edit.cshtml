@@ -1,0 +1,85 @@
+﻿@model Session.ViewModels.SessionClassViewModel
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+
+<link href="~/Content/themes/base/jquery-ui.css" rel="stylesheet" />
+<link href="~/Content/themes/base/jquery.datetimepicker.css" rel="stylesheet" />
+
+
+<script src="~/Scripts/jquery.datetimepicker.full.min.js"></script>
+
+
+<h2>Edit</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>SessionClassViewModel</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.Id)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.StartDate, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.StartDate, new { htmlAttributes = new { @class = "form-control datetime-picker" } })
+                @Html.ValidationMessageFor(model => model.StartDate, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.EndDate, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.EndDate, new { htmlAttributes = new { @class = "form-control datetime-picker" } })
+                @Html.ValidationMessageFor(model => model.EndDate, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.SessionTopicID, "SessionTopicID", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("SessionTopicID", (IEnumerable<SelectListItem>)ViewBag.topicItems, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.SessionTopicID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.SessionRoomID, "SessionRoomID", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("SessionRoomID", (IEnumerable<SelectListItem>)ViewBag.roomItems, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.SessionRoomID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+<!-- Code to wire up  DatePicker -->
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        // This will make every element with the class "date-picker" into a DatePicker element
+        $('.datetime-picker').datetimepicker({
+            step: 5
+        });
+
+    });
+</script>

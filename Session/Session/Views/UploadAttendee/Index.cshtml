@@ -1,0 +1,48 @@
+﻿@model Session.ViewModels.UploadAttendeeViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    @using (Html.BeginForm(null, null, FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <div>
+            @Html.LabelFor(x => x.File)
+            @Html.TextBoxFor(x => x.File, new { type = "file" })
+            @Html.ValidationMessageFor(x => x.File)
+        </div>
+
+        <button type="submit">Upload</button>
+    }
+
+    <br />
+    <div>@ViewBag.LogMessage</div>
+
+    
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+</body>
+</html>
+

@@ -1,0 +1,46 @@
+﻿@model Session.ViewModels.AttendeeFilterResultViewModel
+
+
+<h2>Attendee</h2>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.AttendeeID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SessionName)
+            </th>
+            @if (Model.FullDataValue != null && Model.FullDataValue.Count > 0)
+            {
+                foreach (var item in Model.FullDataValue)
+                {
+                    <th>
+                        @Html.DisplayNameFor(model => item)
+                    </th>
+                }
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.FullDataValue != null && Model.FullDataValue.Count > 0)
+        {
+            foreach (List<string> row in Model.FullDataValue)
+            {
+                <tr>
+                    @foreach (string col in row)
+                    {
+                        <td>
+                            @Html.Display(col)
+                        </td>
+                    }
+
+                </tr>
+
+            }
+        }
+    </tbody>
+
+</table>

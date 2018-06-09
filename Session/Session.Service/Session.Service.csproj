@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1D9CDFC8-BFC3-4599-B55C-03308AEAE5EB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Session.Service</RootNamespace>
+    <AssemblyName>Session.Service</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="EntityService.cs" />
+    <Compile Include="IEntityService.cs" />
+    <Compile Include="IService.cs" />
+    <Compile Include="IAttendeeFullDataService.cs" />
+    <Compile Include="ISessionAttendeeService.cs" />
+    <Compile Include="ISessionClassService.cs" />
+    <Compile Include="ISessionRoomService.cs" />
+    <Compile Include="ISessionTopicService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="AttendeeFullDataService.cs" />
+    <Compile Include="SessionAttendeeService.cs" />
+    <Compile Include="SessionClassService.cs" />
+    <Compile Include="SessionRoomService.cs" />
+    <Compile Include="SessionTopicService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Session.Model\Session.Model.csproj">
+      <Project>{11532963-4B0D-4C8B-957D-D6A732ED9DC3}</Project>
+      <Name>Session.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Session.Repository\Session.Repository.csproj">
+      <Project>{293ea894-d809-4a79-8585-9be8307e6a4d}</Project>
+      <Name>Session.Repository</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

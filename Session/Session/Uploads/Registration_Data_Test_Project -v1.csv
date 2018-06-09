@@ -1,0 +1,9 @@
+Attendee ID,Session Time ID,First Name,Last Name,tITlE,Company,Street1,Street2,City,State,Zip,Country,Phone,Ext,Fax,E_Mail,User_Defined1,User_Defined2
+1,1,Mahmoud Attendee1,Elmasry1,President,imahmoud,376 Bay 4th Street,,Alexandria,AL,2003,Egypt,654564564,2003,654564564,"attendee1,1@imahmoud.com",s,c
+1,5,Mahmoud Attendee1,Elmasry1,President,imahmoud,376 Bay 4th Street,,Alexandria,AL,2003,Egypt,654564564,2003,654564564,"attendee1,1@imahmoud.com",s,c
+1,2,Mahmoud Attendee1,Elmasry1,President,imahmoud,376 Bay 4th Street,,Alexandria,AL,2003,Egypt,654564564,2003,654564564,"attendee1,1@imahmoud.com",s,c
+1,3,Mahmoud Attendee1,Elmasry1,President,imahmoud,376 Bay 4th Street,,Alexandria,AL,2003,Egypt,654564564,2003,654564564,"attendee1,1@imahmoud.com",s,c
+2,1,Mahmoud Attendee2,Elmasry2,owner,Microsoft,7701 Canal Road,,Philadelphia,PA,55555,United States,5164564564,55555,5164564564,attendee2;1@imahmoud.com,s,c
+2,2,Mahmoud Attendee2,Elmasry2,owner,Microsoft,7701 Canal Road,,Philadelphia,PA,55555,United States,5164564564,55555,5164564564,attendee2;1@imahmoud.com,s,c
+3,1,Mahmoud Attendee3,Elmasry3,senior,Google,7701 Canal Road,,Philadelphia,PA,12364,Egypt,65455556,12364,65455556,attendee3 1@imahmoud.com,s,c
+3,3,Mahmoud Attendee3,Elmasry3,senior,Google,7701 Canal Road,,Philadelphia,PA,12364,Egypt,65455556,12364,65455556,attendee3 1@imahmoud.com,s,c
